@@ -1,0 +1,30 @@
+[
+    {
+      "_id": "pool1",
+      "token0": "TokenA",
+      "token1": "TokenB",
+      "reserve0": 100000.0,
+      "reserve1": 200000.0
+    },
+    {
+      "_id": "pool2",
+      "token0": "TokenB",
+      "token1": "TokenC",
+      "reserve0": 50000.0,
+      "reserve1": 100000.0
+    },
+    {
+      "_id": "pool3",
+      "token0": "TokenA",
+      "token1": "TokenC",
+      "reserve0": 80000.0,
+      "reserve1": 160000.0
+    },
+    {
+      "_id": "pool4",
+      "token0": "TokenC",
+      "token1": "TokenD",
+      "reserve0": 150000.0,
+      "reserve1": 300000.0
+    }
+  ]
